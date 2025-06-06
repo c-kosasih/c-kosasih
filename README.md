@@ -69,8 +69,11 @@ While not directly tied to Data Science, I learned these during my university co
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=c-kosasih&show_icons=true&theme=tokyonight" alt="Clarissa's GitHub stats" />
-  <img width="47%" style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-kosasih&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c-kosasih&show_icons=true&theme=nightowl" alt="Clarissa's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-kosasih&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
