@@ -73,7 +73,7 @@ While not directly tied to Data Science, I learned these during my university co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-kosasih&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-kosasih&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
 
