@@ -37,6 +37,18 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+### 🧩 Models I Have Worked With
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC2828?style=flat&logo=xgboost&logoColor=white)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat&logo=python&logoColor=white)
+![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-556B2F?style=flat&logo=python&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black)
+![SVM](https://img.shields.io/badge/-SVM-4B0082?style=flat&logo=python&logoColor=white)
+![KNN](https://img.shields.io/badge/-KNN-4169E1?style=flat&logo=python&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-800000?style=flat&logo=python&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-4682B4?style=flat&logo=python&logoColor=white)
+![AdaBoost](https://img.shields.io/badge/-AdaBoost-FF7F50?style=flat&logo=python&logoColor=white)
+
+
 ### 🧰 Tools & Workflow  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
