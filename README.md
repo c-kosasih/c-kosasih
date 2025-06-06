@@ -1,15 +1,14 @@
 # 👋 Hello, world! I'm Clarissa Beatrice Kosasih
----
+
 🎓 I'm an undergraduate **Data Science major** at **BINUS University** (currently in my 4th semester / 2nd year)  
 🔍 Actively seeking opportunities in the **Data Science** and **Machine Learning** fields  
 📍 Based in Indonesia 🌏
----
+
 ## 👀 About Me
 - 💡 Deeply curious in **Machine Learning**, especially in **unraveling patterns in the financial sector** — like **fraud detection** and **risk optimization** 💳📊
 - 🌱 I love learning new things — whether it’s tools, techniques, or ideas — and I’m always up for **growing through collaboration** and new experiences!
 - 🤝 Open to **collaborations**, new connections, and fun challenges!
 
----
 ## 🛠️ Skills & Tools
 ### 👩‍💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
