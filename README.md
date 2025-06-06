@@ -32,10 +32,8 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![GridSearchCV](https://img.shields.io/badge/-GridSearchCV-323330?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC2828?style=flat&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### 🧩 Models I Have Worked With
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EC2828?style=flat&logo=xgboost&logoColor=white)
