@@ -45,3 +45,25 @@ While not directly tied to Data Science, I learned these during my university co
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c-kosasih&show_icons=true&theme=tokyonight" alt="Clarissa's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-kosasih&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 📓 Projects Notebook
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Exploratory%20Data%20Analysis-4CAF50?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Time%20Series%20Analysis-607D8B?style=for-the-badge&logo=chart-bar&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dashboard%20Dev-F9A825?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
