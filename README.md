@@ -1,6 +1,6 @@
 # 👋 Hello, world! I'm Clarissa Beatrice Kosasih
 
-🎓 I'm an undergraduate **Data Science major** at **BINUS University** (currently in my 4th semester / 2nd year)  
+🎓 I'm an undergraduate **Data Science major** at **BINUS University** (currently in my 5th semester)  
 🔍 Actively seeking opportunities in the **Data Science** and **Machine Learning** fields  
 📍 Based in Indonesia 🌏
 
