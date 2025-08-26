@@ -12,11 +12,12 @@
 # 📓 Projects Notebook
 <p align="center">
   <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/-Exploratory%20Data%20Analysis-4CAF50?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Time%20Series%20Analysis-607D8B?style=for-the-badge&logo=chart-bar&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Mining-795548?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
 
